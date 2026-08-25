@@ -1,0 +1,120 @@
+body {
+max-width:2000px
+}
+
+main{
+margin: auto;
+}
+
+nav {
+font-size: 1.5em;
+}
+
+#calendartcm {
+width:100%;
+text-align:center;
+margin: 10px;
+}
+
+#calendargov {
+width:100%;
+text-align:center;
+margin: 10px;
+}
+
+h1 {
+color:darkred;
+font-size: 3em;
+margin-bottom: 60px;
+text-align: center;
+}
+
+h2 {
+font-size: 2em;
+margin-left: 20px;
+}
+
+li {
+padding: 15px;
+}
+
+ul {
+border: 5px solid black;
+}
+
+footer {
+background-color: darkred;
+color: white;
+margin: 0;
+padding: 25px;
+}
+
+#logo {
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 425px;
+}
+
+.photos {
+display: flex;
+flex-wrap: wrap;
+margin-top: 50px;
+margin-left: 150px;
+margin-bottom: 100px;
+}
+
+.photobio {
+display: flex;
+flex-wrap: wrap;
+}
+
+.photos img {
+height: 100px;
+margin-bottom: 5px;
+margin-top: 5px;
+}
+
+.bios h2 {
+font-size:1.5em;
+color:darkred;
+overflow-wrap: break-word;
+white-space: normal;
+width: 200px;
+}
+
+.bios p {
+margin-left: 20px;
+overflow-wrap: break-word;
+white-space: normal;
+width: 200px;
+}
+
+.bios a {
+margin-left: 20px;
+overflow-wrap: break-word;
+white-space: normal;
+width: 200px;
+}
+
+.governance h2 {
+color:darkred;
+text-align:center;
+}
+
+.subcoms {
+display: flex;
+flex-wrap: wrap;
+}
+
+.subsubcoms {
+width: 33%;
+}
+
+.subsubcoms h3{
+text-align:center;
+}
+
+.subsubcoms p {
+margin-left: 15px;
+}
